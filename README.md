@@ -65,7 +65,7 @@
 <h3>🛠 Tech Stack</h3>
 <ul>
   <li><strong>React JS</strong></li>
-  <li><strong>Tailwind CSS</strong> (or your preferred styling)</li>
+  <li><strong>Tailwind CSS</strong></li>
   <li><strong>FileReader API</strong></li>
   <li><strong>CSV conversion logic</strong> using JS libraries like <code>papaparse</code></li>
 </ul>
